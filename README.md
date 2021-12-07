@@ -1,0 +1,2 @@
+# Fake-news-detection
+A type of yellow journalism, fake news encapsulates pieces of news that may be hoaxes and is generally spread through social media and other online media. This project is based upon a classification problem of classifying news as fake or real. The PassiveAggressiveClassifier model was used for this purpose. The model achieved an accuracy of 95.11 %. Lastly a confusion matrix was built to point out the number of true positives, true negatives, false positives and false negatives.
